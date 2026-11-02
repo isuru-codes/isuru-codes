@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1.gif" width="45%" />
+  <img src="1.gif" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm isuru anjana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
