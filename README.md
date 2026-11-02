@@ -1,6 +1,26 @@
-<p align="center">
-  <img src="1.gif" width="100%" />
-</p>
+<table>
+  <tr>
+    <td width="55%">
+      <h3>Hi there 👋, I'm Isuru Anjana</h3>
+      <p><b>🚀 Full-Stack Developer | Tech Enthusiast</b></p>
+      <p>
+        Welcome to my GitHub profile repository!I am passionate about coding, 
+        web development, and building cool projects.
+      </p>
+      <p>
+        Currently focusing on: <span style="background-color: #0d5c2e; color: #ffffff; padding: 2px 6px; border-radius: 4px;">Web Development & Open Source</span>
+      </p>
+      <ul>
+        <b>💻 Core Technologies:</b>
+        <li>HTML, CSS, JavaScript</li>
+        <li>Git & GitHub</li>
+      </ul>
+    </td>
+    <td width="45%" align="center">
+      <img src="1.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 <h1 align="center">Hi 👋, I'm isuru anjana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
